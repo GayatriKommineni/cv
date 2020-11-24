@@ -1,0 +1,32 @@
+body{
+    background-color:#bedbbb;
+}
+img{
+    float:left;
+    
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: royalblue;
+}
+
+th{
+    text-align: center;
+   
+}
+td{
+    text-align: center;
+}
+h1{
+    color : navy;
+    text-align: none;
+    text-decoration: none;
+    text-indent: 10px;
+}
+h3{
+    color:brown;
+    text-align: none;
+    text-decoration: none;
+    text-indent: 10px;
+
+}
